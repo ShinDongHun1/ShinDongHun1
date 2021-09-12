@@ -12,8 +12,8 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 - (19.03 - ~ing ) Chungnam National University student 🎓
 
 ## Interest 👀
--Web Programming 
--Algorithm
+- Web Programming 
+- Algorithm
 
 ## Programming Language 💻
 - Java (I love ❤) ☕
