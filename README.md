@@ -14,13 +14,15 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 
 ## Interest 👀
 -Web Programming </br>
- • Back-End</br>
-   ★ I'm studing Java Spring 🌱 </br>
-   ☆ I will study Node.js & Django
+  • Back-End</br>
+     ★ I'm studing Java Spring 🌱 </br>
+     ☆ I will study Node.js & Django
 
 
- • Front-end
-   ☆ I will study React.js
+  • Front-end </br>
+    ☆ I will study React.js
+
+</br>
 
 - Algorithm
 
