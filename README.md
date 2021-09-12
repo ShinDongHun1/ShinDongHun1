@@ -1,6 +1,7 @@
 # 동훈 Donghun Shin
 
 I'm a student majoring in Computer Science and Enjineering at Chungnam National University.
+</br>
 I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 
 
