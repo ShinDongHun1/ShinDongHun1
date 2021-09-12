@@ -13,14 +13,14 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 - (19.03 - ~ing ) Chungnam National University student 🎓
 
 ## Interest 👀
--Web Programming </br>
-  • Back-End</br>
-     • I'm studing Java Spring 🌱 </br>
-     • I will study Node.js & Django
+-Web Programming 
+  -Back-End
+     -I'm studing Java Spring 🌱 </br>
+     -I will study Node.js & Django
 
 
-  • Front-end </br>
-    • I will study React.js
+  -Front-end </br>
+    -I will study React.js
 
 -Algorithm
 
