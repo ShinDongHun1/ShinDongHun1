@@ -17,5 +17,5 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 ## Programming Language 💻
 - Java (I love ❤) 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinDongHun1&&show_icons=true&theme=radical)
 
