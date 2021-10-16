@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=DongHunShin🌱&fontSize=70&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=slice&color=green&height=150&section=header&text=DongHunShin🌱&fontSize=70&animation=twinkling)
 
 <br>
 
@@ -13,9 +13,9 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 
 <br>
 
-<h2 align="center">
+<h3 align="center">
 🔥Majoring Back-End🔥
-</h2>
+</h3>
 <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
