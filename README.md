@@ -19,9 +19,11 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 <br>
 <br>
 
-<h2 align="center"> 🧸 My Blog 🧸 </h2>
-<p align="center">
-  <a href="https://shindonghun1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://shindonghun1.github.io"/></a>&nbsp
+<h2 align="center"> 🧸 My Blog 🧸 
+	<br>
+	  <a href="https://shindonghun1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://shindonghun1.github.io"/></a>&nbsp
+</h2>
+
 <br>
 
 
