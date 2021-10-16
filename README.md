@@ -16,8 +16,6 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 <h4 align="center">
 🔥Majoring Back-End🔥
 </h4>
-
-<br>
 <br>
 
 <h4 align="center"> 🧸 Me 🧸 </h4>
@@ -26,7 +24,6 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
   <a href="https://www.instagram.com/woo0_hooo/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sii_.n/"/></a>&nbsp
 <br>
-
 
 <h2></h2>
 
@@ -42,7 +39,6 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
 </p>
 
-<br>
 
 <br>
 
@@ -52,7 +48,6 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 </p>
 
-<br>
 
 <br>
 
@@ -74,7 +69,6 @@ I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 
 <h2></h2>
 
-<br>
 
 <br>
 
