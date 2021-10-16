@@ -4,18 +4,18 @@
 
 <br>
 
-<h4 align="center">
+<h3 align="center">
 	🎓 ChungNam National University
-</h4>
-<h4 align="center">
+</h3>
+<h3 align="center">
 I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
-</h4>
+</h3>
 
 <br>
 
-<h3 align="center">
+<h2 align="center">
 🔥Majoring Back-End🔥
-</h3>
+</h2>
 <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
