@@ -4,21 +4,21 @@
 
 <br>
 
-<h5 align="center">
-	🎓 ChungNam National University
-</h5>
-<h5 align="center">
-I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
-</h5>
-
-<br>
-
 <h4 align="center">
-🔥Majoring Back-End🔥
+	🎓 ChungNam National University
 </h4>
+<h4 align="center">
+I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
+</h4>
+
 <br>
 
-<h4 align="center"> 🧸 Me 🧸 </h4>
+<h3 align="center">
+🔥Majoring Back-End🔥
+</h3>
+<br>
+
+<h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://shindonghun1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://shindonghun1.github.io"/></a>&nbsp
   <a href="https://www.instagram.com/woo0_hooo/">
