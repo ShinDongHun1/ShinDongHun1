@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=DongHunShin🌱&fontSize=70&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=DongHunShin🌱&fontSize=70&fontColor=474747&animation=twinkling)
 
 <br>
 
