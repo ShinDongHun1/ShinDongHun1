@@ -8,7 +8,6 @@
 	🎓 ChungNam National University
 </h3>
 <h3 align="center">
-I want to be Programmer whose Big Three 1RM is 500. (350 now) 💪🏻
 </h3>
 
 <br>
