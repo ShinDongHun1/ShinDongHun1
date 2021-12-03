@@ -3,9 +3,7 @@
 <br>
 
 <br>
-<h3 align="center">
-No developer is an island.
-</h3>
+
 
 <h3 align="center">
 	🎓 ChungNam National University
