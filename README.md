@@ -2,11 +2,9 @@
 
 <br>
 
-<br>
-
-<h1 align="center">
+<h2 align="center">
 	No developer is an island.
-</h1>
+</h2>
 <br>
 <br>
 <h3 align="center">
