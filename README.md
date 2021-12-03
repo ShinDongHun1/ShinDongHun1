@@ -1,7 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=DongHunShin&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 
-<br>
-
 <h2 align="center">
 	No developer is an island.
 </h2>
