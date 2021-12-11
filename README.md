@@ -21,7 +21,7 @@ I am a developer, not an island.
 
 <h2 align="center"> 🧸 My Blog 🧸 
 	<br><br>
-	  <a href="https://shindonghun1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://shindonghun1.github.io"/></a>&nbsp
+	  <a href="https://ttl-blog.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://ttl-blog.tistory.com/"/></a>&nbsp
 </h2>
 
 <br>
