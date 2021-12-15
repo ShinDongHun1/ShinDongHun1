@@ -24,6 +24,11 @@ I am a developer, not an island.
 	  <a href="https://ttl-blog.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://ttl-blog.tistory.com/"/></a>&nbsp
 </h2>
 
+<h2 align="center"> 🧸 Profile 🧸 
+	<br><br>
+	  <a href="https://www.notion.so/Resume-34fc99138c4e47969ba24f77824a6c1d"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://www.notion.so/Resume-34fc99138c4e47969ba24f77824a6c1d/"/></a>&nbsp
+</h2>
+
 <br>
 
 
