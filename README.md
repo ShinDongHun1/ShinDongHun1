@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=DongHunShin&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 
 <h2 align="center">
-I am a developer, not an island.
+윈터도 좋고, 스프링도 조아!
 </h2>
 <br>
 <br>
