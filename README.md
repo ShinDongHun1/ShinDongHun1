@@ -3,7 +3,6 @@
 <h2 align="center">
 윈터도 좋고, 스프링도 조아!
 </h2>
-![winter2](https://user-images.githubusercontent.com/52229930/150157447-0ea132fe-8eb5-472c-8c52-88a032feae9d.jpg)
 
 <br>
 <br>
