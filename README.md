@@ -25,13 +25,13 @@
 	  <a href="https://ttl-blog.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://ttl-blog.tistory.com/"/></a>
 	 <a href="https://heavy-silkworm-59d.notion.site/Resume-34fc99138c4e47969ba24f77824a6c1d"><img src="https://img.shields.io/badge/Profile-11B48A?style=flat-square&logo=Notion&logoColor=black&link=https://heavy-silkworm-59d.notion.site/Resume-34fc99138c4e47969ba24f77824a6c1d"/></a>&nbsp
 	
-	<br><br>
+	
 	
 </h2>
 
 
 
-<br>
+<br><br><br>
 
 <br>
 
