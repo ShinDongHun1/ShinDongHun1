@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=DongHunShin&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 
 <h2 align="center">
-윈터도 좋고, 스프링도 조아!
+I like Winter & Spring
 </h2>
 
 <br>
