@@ -1,22 +1,11 @@
-![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=DongHunShin&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=본인? 스프링 마스터 할거임&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 
 <h2 align="center">
-I like Winter & Spring
+본인? 스프링 마스터 할거임
 </h2>
 
-<br>
-<br>
-<h3 align="center">
-	🎓 ChungNam National University
-</h3>
-<h3 align="center">
-</h3>
 
-<br>
 
-<h3 align="center">
-🔥Majoring Back-End🔥
-</h3>
 <br>
 <br>
 
