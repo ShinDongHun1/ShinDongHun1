@@ -25,13 +25,10 @@
 
 <br><br>
 
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=huipulco)](https://solved.ac/huipulco)
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinDongHun1&&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyoung3016&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
