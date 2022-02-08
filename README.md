@@ -16,23 +16,7 @@
 	 <a href="https://heavy-silkworm-59d.notion.site/Resume-34fc99138c4e47969ba24f77824a6c1d"><img src="https://img.shields.io/badge/Profile-11B48A?style=flat-square&logo=Notion&logoColor=black&link=https://heavy-silkworm-59d.notion.site/Resume-34fc99138c4e47969ba24f77824a6c1d"/></a><br><br>&nbsp
 	
 	
-	
 </h2>
-
-
-
-<br>
-
-<br>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Spirng-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-</p>
-
 
 <br>
 <br>
