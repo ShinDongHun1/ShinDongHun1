@@ -72,7 +72,7 @@ I like Winter & Spring
 <br><br>
 
 ## solved.ac profile
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=신동훈)](https://solved.ac/huipulco)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=huipulco)](https://solved.ac/huipulco)
 
 <br>
 
