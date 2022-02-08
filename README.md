@@ -69,6 +69,10 @@ I like Winter & Spring
 
 <h2></h2>
 
+<br><br>
+
+## solved.ac profile
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=huipulco)](https://solved.ac/huipulco)
 
 <br>
 
