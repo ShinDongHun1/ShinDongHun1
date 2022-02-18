@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=slice&color=ffc0cb&height=250&section=header&text=DongHunShin&fontAlign=80&fontSize=40&fontColor=000000&animation=twinkling)
 
 <h2 align="center">
-본좌? 스프링 마스터 할거임 (지금은 개못함)
+본좌? 스프링 마스터 할거임
 <br>
 <br>
 	<br>
