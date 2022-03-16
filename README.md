@@ -14,7 +14,7 @@
 
 <h2 align="center"> 🧸 My Blog🧸 
 	<br><br>
-	  <a href="https://ttl-blog.tistory.com/">https://ttl-blog.tistory.com/</>
+	  <a href="https://ttl-blog.tistory.com/">https://ttl-blog.tistory.com/</><br>
 	<br><br>
 	
 </h2>
